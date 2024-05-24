@@ -28,25 +28,28 @@ tags:
 
 ### 示例程序： 以下是一个简单的示例程序，它将显示“Hello, World!”：
 
-### #include <iostream>
-### using namespace std;
-### int main() {
-###     cout << "Hello, World!" << endl;
-###     return 0;
-### }
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+     cout << "Hello, World!" << endl;
+     return 0;
+}
+```
 ### 这是一个简单的 C++程序，通过 DEV-C++您可以创建、编辑和运行类似的程序。
 
 ### 现在，您已经了解了操作系统和如何使用 DEV-C++这一编程工具。在学习 C++编程之前，确保您已经安装了适当的开发环境，并准备好开始编写代码。愿您在编程之旅中取得成功！
 
 ### 小练习 请按照 0.4 节中的要求，准备好编程所需要的所有工具，然后新建一个 C++ 程序，并且输入如下的内容：保存然后编译运行这个程序，看看会输出什么。
 
-
-### #include <iostream>
-### using namespace std;
-### int main() {
-###     cout << "恭喜你" << "安装成功啦！" << endl;
-###     return 0;
-### }
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "恭喜你" << "安装成功啦！" << endl;
+    return 0;
+}
+```
 # 参考示例
 
 ### 1 2 3 4 5 6 7 8 9 10 11 12 13 14
